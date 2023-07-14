@@ -1,0 +1,6 @@
+.hero {
+  width: 300px;
+  height: 600px;
+  background-color: var(--bgColor);
+  border-radius: 20px;
+}

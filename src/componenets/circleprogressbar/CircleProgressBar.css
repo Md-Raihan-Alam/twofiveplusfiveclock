@@ -1,0 +1,14 @@
+.circle-progress {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.cicle-text {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.notice {
+  text-align: center;
+  color: var(--accent);
+  font-size: 1.2rem;
+}
